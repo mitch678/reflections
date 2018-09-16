@@ -6,3 +6,8 @@ How is the staging area different from the working directory and the repository?
 
   * The staging area shows you the files you are about to add to a repository.
   * Everything resides within the working directory, but only files that are in the repo are being tracked via commits
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+  * If you've changed multiple files, each for a different logical change, you can add one at a time to the staging area and doing a commit for each one
+
