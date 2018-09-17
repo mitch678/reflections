@@ -15,6 +15,7 @@ What are some situations when branches would be helpful in keeping your history 
 
   * If you want to test out a new feature, for instance, you could keep that separate from changes to the main project
   
-How do the diagrams help you visualize the branch structure?
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-  * They show the commits before, at the point of and after the branch was created, so you can see how the work diverged
+  * The files from the two branches get merged
+  * The commits from both branches are now visible and reachable from the same tip
